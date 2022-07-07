@@ -8,6 +8,17 @@
         <title>My Home Blade</title>
     </head>
     <body>
-        <h1>Hello Laravel</h1>
+        <div>
+            <h1>Hello Laravel</h1>
+            <ul>
+                <li>
+                    <a href="/welcome">Orginal Homepage</a>
+                </li>
+                <li>
+                    <a href="/nroute">New Route</a>
+                </li>
+            </ul>
+        </div>
+
     </body>
 </html>
